@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-solid-900.bed3b0a7.woff2"
   },
   {
-    "revision": "59caff568003e03a2460",
-    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/css/main.bd82df79.chunk.css"
+    "revision": "82b7c0b3e52c8cb0d02b",
+    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/css/main.1d6014b2.chunk.css"
   },
   {
     "revision": "a8684002716ab899ee8109e3a06d1699",
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-solid-900.a8684002.svg"
   },
   {
-    "revision": "3915b0890a6dba98ad0d",
-    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/js/1.3915b089.chunk.js"
+    "revision": "194266f40f2789d36284",
+    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/js/1.194266f4.chunk.js"
   },
   {
     "revision": "0e3d023bf938ae9b9704",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-brands-400.87b76b96.woff2"
   },
   {
-    "revision": "59caff568003e03a2460",
-    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/js/main.59caff56.chunk.js"
+    "revision": "82b7c0b3e52c8cb0d02b",
+    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/js/main.82b7c0b3.chunk.js"
   },
   {
     "revision": "292a5648655a59b04caebf770ac622f2",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-solid-900.e0c419cf.woff"
   },
   {
-    "revision": "f83bc05a0646ef0e5c0fa634ba821f23",
-    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-brands-400.f83bc05a.ttf"
-  },
-  {
     "revision": "f902692ccf772542b69071931f1e3de9",
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-brands-400.f902692c.eot"
+  },
+  {
+    "revision": "f83bc05a0646ef0e5c0fa634ba821f23",
+    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-brands-400.f83bc05a.ttf"
   },
   {
     "revision": "1e51c391eb6d448007227e07275f662f",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/media/fa-brands-400.27183da0.svg"
   },
   {
-    "revision": "3915b0890a6dba98ad0d",
-    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/css/1.3326ea5d.chunk.css"
+    "revision": "194266f40f2789d36284",
+    "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/static/css/1.a5793d12.chunk.css"
   },
   {
-    "revision": "dd95a5ec27a1525210816ab2735d42ee",
+    "revision": "579acd96187fd7ed557a0b69e92112ba",
     "url": "https://atomiclabs.github.io/ledger-kmd-reward-claim/index.html"
   }
 ];
