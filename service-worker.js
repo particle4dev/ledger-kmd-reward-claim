@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://atomiclabs.github.io/ledger-kmd-reward-claim/precache-manifest.0382157d7123730f685a1bf2143b990e.js"
+  "https://particle4dev.github.io/ledger-kmd-reward-claim/precache-manifest.f79054510e6117ef4bba2830df8f7e3c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://atomiclabs.github.io/ledger-kmd-reward-claim/index.html", {
+workbox.routing.registerNavigationRoute("https://particle4dev.github.io/ledger-kmd-reward-claim/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
